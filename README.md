@@ -1,6 +1,6 @@
 # dsview – Beautiful Interactive AI & Data Science Inside Notebooks
 
-dsview turns your notebook into an AI studio: data exploration, model training, model comparison, and monitoring in notebook-native interactive views.
+dsview turns your notebook into an studio: data exploration, model training, model comparison, and monitoring in notebook-native interactive views.
 
 ## Installation
 ```bash
